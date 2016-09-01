@@ -1,5 +1,5 @@
 # FCREPO 4.6.0
-FCREPO 4.6.0 on Alpine linux
+FCREPO 4.6.0 on Alpine linux.
 You need to change the first line of the DockerFile (find an openjdk alpine docker image for yourself).
 ## Build
 docker build -t fcrepo4 .
